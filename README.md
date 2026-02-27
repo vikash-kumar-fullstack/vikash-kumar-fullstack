@@ -52,6 +52,7 @@ Secure authentication architecture with password encryption and role-based acces
 [![GitHub](https://img.shields.io/badge/GitHub-121011.svg?logo=github&logoColor=white)](https://github.com/vikash-kumar-fullstack)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nisant54321@gmail.com)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://vikash-kumar-fullstack.vercel.app/)
 ---
 
 ## 📊 GitHub Stats
