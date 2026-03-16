@@ -1,76 +1,171 @@
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
-<h3 align="center">Full Stack Developer (MERN) | Backend & Automation Systems | Software Engineer Intern @ RoadX</h3>
+
+<h3 align="center">
+Full Stack Developer (MERN) • Backend Engineer • Automation Systems Builder
+</h3>
+
+<p align="center">
+Building scalable backend systems, automation pipelines, and real-world software solutions.
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a B.Tech Computer Science student (2027) specializing in **Full Stack Development (MERN)**, backend engineering, and production-grade automation systems.
+I am a **B.Tech Computer Science student (Class of 2027)** focused on **Full Stack Development (MERN)**, backend engineering, and building **production-grade automation systems**.
 
-🔹 Currently working on real-world systems including:
+I enjoy designing **real-world software systems** that solve business problems using scalable backend architecture and API-driven workflows.
 
-- **WhatsApp Lead Automation System** integrated with IndiaMART Push API (used by real businesses)
-- **Desi Dealz** – E-commerce platform
-- **Teach With Teach** – Government education monitoring system with multi-role dashboard
+### 🔹 Current Focus
+- Backend Architecture
+- Automation Systems
+- API Integration
+- Scalable Web Applications
 
-🔹 Experience:
-- **Software Engineer Intern @ RoadX Motors** – Built scalable automation workflows using Node.js, MongoDB, webhooks, and secure REST APIs.
-- **Research Intern @ IIT Patna (Blockchain)** – Worked on smart contracts, Ethereum fundamentals, and decentralized workflows.
+### 🔹 Professional Experience
 
-🔹 Core Strength:
-Designing and building scalable, end-to-end systems that solve practical business problems.
+**Software Engineer Intern — RoadX Motors**
 
----
+- Built production automation workflows using **Node.js, MongoDB, Webhooks, and REST APIs**
+- Designed backend systems for **lead processing and automated communication**
+- Developed scalable backend modules for **real business operations**
 
-## 🛠 Tech Stack
+**Research Intern — IIT Patna (Blockchain)**
 
-**Languages:** JavaScript • Python • C • C++ • Solidity  
-**Frontend:** React • HTML5 • CSS3 • TailwindCSS • Bootstrap  
-**Backend:** Node.js • Express.js • REST APIs • JWT Authentication  
-**Databases:** MongoDB • Mongoose • MySQL  
-**Architecture:** Webhooks • Automation Systems • API Integration • Role-Based Access Control  
-**Tools & Platforms:** Git • GitHub • Postman • Vercel • Render • Netlify  
+- Studied **Ethereum fundamentals and smart contract architecture**
+- Built basic **Solidity contracts and decentralized workflows**
 
 ---
 
-## 📌 Featured Projects
+# 🛠 Tech Stack
 
-🔹 **WhatsApp Lead Automation System**
-Production-grade backend system handling live IndiaMART leads, MongoDB upserts, automated follow-ups, and webhook-based communication flow.
+### Languages
+JavaScript • Python • C • C++ • Solidity
 
-🔹 **Teach With Teach**
-Multi-role education monitoring dashboard with teacher tracking and real-time verification system.
+### Frontend
+React • HTML5 • CSS3 • TailwindCSS • Bootstrap
 
-🔹 **MERN Authentication System**
-Secure authentication architecture with password encryption and role-based access control.
+### Backend
+Node.js • Express.js • REST APIs • JWT Authentication
 
----
+### Databases
+MongoDB • Mongoose • MySQL
 
-## 🌐 Connect With Me
+### Architecture & Systems
+Webhooks • Automation Systems • API Integration • Role-Based Access Control
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-kumar-fullstack/)
-[![GitHub](https://img.shields.io/badge/GitHub-121011.svg?logo=github&logoColor=white)](https://github.com/vikash-kumar-fullstack)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nisant54321@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://vikash-kumar-fullstack.vercel.app/)
-
-📝 Medium Article: https://medium.com/@nisant54321/vikash-kumar-full-stack-developer-mern-portfolio-backend-automation-projects-83758003d445
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=vikash-kumar-fullstack&theme=dark&hide_border=false&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vikash-kumar-fullstack&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-kumar-fullstack&theme=dark&layout=compact)
+### Tools & Platforms
+Git • GitHub • Postman • Vercel • Render • Netlify
 
 ---
 
-## 🏆 GitHub Trophies
+# 📌 Featured Projects
 
-![](https://github-profile-trophy.vercel.app/?username=vikash-kumar-fullstack&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🔹 WhatsApp Lead Automation System
+Production-grade backend automation system that processes **IndiaMART leads in real time**.
+
+Features:
+- Webhook-based architecture
+- MongoDB lead upserts
+- Automated follow-up scheduling
+- WhatsApp communication automation
+
+Tech Stack:
+Node.js • Express • MongoDB • Webhooks • REST APIs
 
 ---
 
-## 🔥 Visitor Count
+## 🔹 Teach With Teach
+Education monitoring platform designed for **government school transparency**.
 
-![](https://visitcount.itsvg.in/api?id=vikash-kumar-fullstack&icon=0&color=0)
+Features:
+- Multi-role dashboard (Teachers / Principal / District Authority)
+- Real-time monitoring
+- Teacher verification system
+- Education data tracking
+
+Tech Stack:
+MERN Stack • Role-Based Access Control
+
+---
+
+## 🔹 MERN Authentication System
+Secure authentication architecture built with **industry-level practices**.
+
+Features:
+- Password encryption
+- JWT authentication
+- Role-based authorization
+- Secure backend API design
+
+Tech Stack:
+Node.js • Express • MongoDB • JWT
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vikash-kumar-fullstack/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vikash-kumar-fullstack" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:nisant54321@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://vikash-kumar-fullstack.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue"/>
+</a>
+
+</p>
+
+📝 Article:  
+https://medium.com/@nisant54321/vikash-kumar-full-stack-developer-mern-portfolio-backend-automation-projects-83758003d445
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vikash-kumar-fullstack&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-kumar-fullstack&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-kumar-fullstack&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vikash-kumar-fullstack&theme=algolia&margin-w=8"/>
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=vikash-kumar-fullstack&icon=2&color=6"/>
+</p>
+
+---
+
+# 💡 Philosophy
+
+> Build systems that solve real problems.  
+> Write clean code.  
+> Design scalable architecture.
+
+---
+
+⭐ If you find my work interesting, feel free to connect or collaborate.
