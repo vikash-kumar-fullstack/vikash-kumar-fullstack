@@ -106,23 +106,18 @@ Node.js • Express • MongoDB • JWT
 # 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/vikash-kumar-fullstack/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vikash-kumar-fullstack" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:nisant54321@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://vikash-kumar-fullstack.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/vikash-kumar-fullstack/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/vikash-kumar-fullstack" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:nisant54321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://vikash-kumar-fullstack.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue" alt="Portfolio"/>
+  </a>
 </p>
 
 📝 Article:  
@@ -133,13 +128,10 @@ https://medium.com/@nisant54321/vikash-kumar-full-stack-developer-mern-portfolio
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vikash-kumar-fullstack&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-kumar-fullstack&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-kumar-fullstack&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vikash-kumar-fullstack&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-kumar-fullstack&theme=tokyonight" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-kumar-fullstack&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -147,7 +139,9 @@ https://medium.com/@nisant54321/vikash-kumar-full-stack-developer-mern-portfolio
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vikash-kumar-fullstack&theme=algolia&no-frame=true&margin-w=10&row=1&column=6"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vikash-kumar-fullstack&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -155,7 +149,7 @@ https://medium.com/@nisant54321/vikash-kumar-full-stack-developer-mern-portfolio
 # 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vikash-kumar-fullstack&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=vikash-kumar-fullstack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
