@@ -147,7 +147,7 @@ https://medium.com/@nisant54321/vikash-kumar-full-stack-developer-mern-portfolio
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vikash-kumar-fullstack&theme=algolia&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vikash-kumar-fullstack&theme=algolia&no-frame=true&margin-w=10&row=1&column=6"/>
 </p>
 
 ---
@@ -155,7 +155,7 @@ https://medium.com/@nisant54321/vikash-kumar-full-stack-developer-mern-portfolio
 # 👀 Profile Visitors
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=vikash-kumar-fullstack&icon=2&color=6"/>
+<img src="https://komarev.com/ghpvc/?username=vikash-kumar-fullstack&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
