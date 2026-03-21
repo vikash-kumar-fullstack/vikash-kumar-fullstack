@@ -140,6 +140,7 @@ https://medium.com/@nisant54321/vikash-kumar-full-stack-developer-mern-portfolio
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
+    [![trophy](https://github-profile-trophy.vercel.app/?vikash-kumar-fullstack&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
     <img src="https://github-profile-trophy.vercel.app/?username=vikash-kumar-fullstack&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   </a>
 </p>
