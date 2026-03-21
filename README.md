@@ -144,6 +144,9 @@ https://medium.com/@nisant54321/vikash-kumar-full-stack-developer-mern-portfolio
     <img src="https://github-profile-trophy.vercel.app/?username=vikash-kumar-fullstack&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikash-kumar-fullstack&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 
 ---
 
